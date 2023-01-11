@@ -1,0 +1,255 @@
+"","PlotID","transect_azimuth","LineKey","collection_date","Observer","Recorder","DataEntry","DataErrorChecking","transect_length_m","min_gap_size_cm"
+"1","Kent1",0,1708181140519712,2017-08-18,"Bubba Sizer","Kassadie Dunham","Kassadie Dunham",NA,50,20
+"2","Kent1",120,1708181140517855,2017-07-14,"Janelle Nelson","Kassadie Dunham","Kassadie Dunham",NA,50,20
+"3","Kent1",240,1708181140516080,2017-07-14,"Bubba Sizer","Kassadie Dunham","Kassadie Dunham",NA,50,20
+"4","Kent2",0,1709081635202165,2017-07-13,"Matt Delbar","Jim Sprinkle","Kassadie Dunham",NA,50,20
+"5","Kent2",120,1709081635208853,2017-07-13,"Matt Delbar","Jim Sprinkle","Kassadie Dunham",NA,50,20
+"6","Kent2",240,1709081635208787,2017-07-13,"Matt Delbar","Jim Sprinkle","Kassadie Dunham",NA,50,20
+"7","LPC1",0,1709131407084255,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"8","LPC1",120,1709131407083645,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"9","LPC1",240,1709131407081870,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"10","LPC2",0,1709131530254702,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"11","LPC2",120,1709131530252073,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"12","LPC2",240,1709131530257306,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"13","Kent3",0,1709131623414671,2017-07-13,"Bubba Sizer","Alana Boies","Kassadie Dunham",NA,50,20
+"14","Kent3",120,1709131623411961,2017-07-13,"Bubba Sizer","Alana Boies","Kassadie Dunham",NA,50,20
+"15","Kent3",240,1709131623412749,2017-07-13,"Bubba Sizer","Alana Boies","Kassadie Dunham",NA,50,20
+"16","LPC3",0,1709131636322884,2017-07-13,"Ben Cochran","Tyler Covey","Kassadie Dunham",NA,50,20
+"17","LPC3",120,1709131636322309,2017-07-13,"Ben Cochran","Tyler Covey","Kassadie Dunham",NA,50,20
+"18","LPC3",240,1709131636326688,2017-07-13,"Ben Cochran","Tyler Covey","Kassadie Dunham",NA,50,20
+"19","LPC4",0,1709131647006426,2017-07-13,"Ben Cochran","Tyler Covey","Kassadie Dunham",NA,50,20
+"20","LPC4",120,1709131647007041,2017-07-13,"Ben Cochran","Tyler Covey","Kassadie Dunham",NA,50,20
+"21","LPC4",240,1709131647009884,2017-07-13,"Ben Cochran","Tyler Covey","Kassadie Dunham",NA,50,20
+"22","LPC5",240,1709141331262105,2017-07-13,"Ben Cochran","Tyler Covey","Kassadie Dunham",NA,50,20
+"23","LRC1",0,170914134335503,2017-07-13,"April Hulet","April Hulet","Kassadie Dunham",NA,50,20
+"24","LRC1",120,1709141343352492,2017-07-13,"April Hulet","April Hulet","Kassadie Dunham",NA,50,20
+"25","LRC1",240,1709141343359180,2017-07-13,"April Hulet","April Hulet","Kassadie Dunham",NA,50,20
+"26","LRC2",0,170914142005574,2017-07-13,"April Hulet","April Hulet","Kassadie Dunham",NA,50,20
+"27","LRC2",120,1709141420052990,2017-07-13,"April Hulet","April Hulet","Kassadie Dunham",NA,50,20
+"28","LRC2",240,1709141420055741,2017-07-13,"April Hulet","April Hulet","Kassadie Dunham",NA,50,20
+"29","ST4",0,1709141527286754,2017-07-14,"Karen Launchbaugh","Jim Sprinkle","Kassadie Dunham",NA,50,20
+"30","ST4",120,1709141527284471,2017-07-14,"Karen Launchbaugh","Jim Sprinkle","Kassadie Dunham",NA,50,20
+"31","ST4",240,1709141527283978,2017-07-14,"Karen Launchbaugh","Jason Karl","Kassadie Dunham",NA,50,20
+"32","ST2",0,170914155147224,2017-07-13,"Landon Goolsby","Cameron Packer","Kassadie Dunham",NA,50,20
+"33","ST2",120,1709141551474949,2017-07-13,"Landon Goolsby","Cameron Packer","Kassadie Dunham",NA,50,20
+"34","ST2",240,1709141551476083,2017-07-13,"Landon Goolsby","Cameron Packer","Kassadie Dunham",NA,50,20
+"35","ST3",0,170914162654226,2017-09-14,"Matt Delbar","Jim Sprinkle","Kassadie Dunham",NA,50,20
+"36","ST3",120,1709141626542041,2017-07-13,"Matt Delbar","Jim Sprinkle","Kassadie Dunham",NA,50,20
+"37","ST3",240,1709141626543938,2017-07-13,"Matt Delbar","Jim Sprinkle","Kassadie Dunham",NA,50,20
+"38","NE1",0,1709141650232280,2017-07-13,"Lisa Jones","Janelle Nelson","Kassadie Dunham",NA,50,20
+"39","NE1",120,1709141650235978,2017-07-13,"Janelle Nelson","Lisa Jones","Kassadie Dunham",NA,50,20
+"40","NE1",240,1709141650234884,2017-07-13,"Lisa Jones","Janelle Nelson","Kassadie Dunham",NA,50,20
+"41","NE2",0,1709151357176357,2017-07-14,"Matt Delbar","Madeline Wilson","Kassadie Dunham",NA,50,20
+"42","NE2",120,1709151357174582,2017-07-14,"Matt Delbar","Madeline Wilson","Kassadie Dunham",NA,50,20
+"43","NE2",240,1709151357177252,2017-07-14,"Matt Delbar","Madeline Wilson","Kassadie Dunham",NA,50,20
+"44","SE2",0,1709151418443267,2017-07-14,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"45","SE2",120,1709151418448500,2017-07-14,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"46","SE2",240,1709151418442799,2017-07-14,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"47","SE3",240,1709151431023211,2017-07-13,"Sara Ihrie","Tim Prather","Kassadie Dunham",NA,50,20
+"48","SE3",120,1709151431023999,2017-07-13,"Sara Ihrie","Tim Prather","Kassadie Dunham",NA,50,20
+"49","SE3",0,1709151431028979,2017-07-13,"April Hulet","Karen Launchbaugh","Kassadie Dunham",NA,50,20
+"50","ST10",0,1709151508304362,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"51","ST10",120,1709151508308741,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"52","ST10",240,1709151508302948,2017-07-13,"Jake Price","Madeline Wilson","Kassadie Dunham",NA,50,20
+"53","ST13",0,1709151520502920,2017-07-13,"Alana Boies","Landon Goolsby","Kassadie Dunham",NA,50,20
+"54","ST13",120,1709151520504817,2017-07-13,"Alana Boies","Landon Goolsby","Kassadie Dunham",NA,50,20
+"55","ST13",240,1709151520503815,2017-07-13,"Alana Boies","Landon Goolsby","Kassadie Dunham",NA,50,20
+"56","ST14",0,1709151557193879,2017-07-14,"Sara Ihrie","Cameron Packer","Kassadie Dunham",NA,50,20
+"57","ST14",120,1709151557192785,2017-07-14,"Sara Ihrie","Cameron Packer","Kassadie Dunham",NA,50,20
+"58","ST14",240,170915155719756,2017-07-14,"Sara Ihrie","Cameron Packer","Kassadie Dunham",NA,50,20
+"59","ST5",0,1709201347415431,2017-07-13,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"60","ST5",120,1709201347414198,2017-07-13,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"61","ST5",240,1709201347412423,2017-07-13,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"62","ST6",0,1709201355022502,2017-07-13,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"63","ST6",120,1709201355029872,2017-07-13,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"64","ST6",240,1709201355025106,2017-07-13,"Matt Wheeler","Doug Tosoni","Kassadie Dunham",NA,50,20
+"65","ST8",0,1709201404512273,2017-07-13,"Landon Goolsby","Cameron Packer","Kassadie Dunham",NA,50,20
+"66","ST8",120,1709201404519562,2017-07-13,"Landon Goolsby","Cameron Packer","Kassadie Dunham",NA,50,20
+"67","ST8",240,170920140451351,2017-07-13,"Landon Goolsby","Cameron Packer","Kassadie Dunham",NA,50,20
+"68","UPC2",0,1709201421342089,2017-07-14,"Jonathan Swartz","Keri York","Kassadie Dunham",NA,50,20
+"69","UPC2",120,1709201421341514,2017-07-14,"Jonathan Swartz","Keri York","Kassadie Dunham",NA,50,20
+"70","UPC2",240,1709201421345893,2017-07-14,"Keri York","Jonathan Swartz","Kassadie Dunham",NA,50,20
+"71","UPC3",0,170920153605975,2017-08-03,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"72","UPC3",120,1709201536051590,2017-08-03,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"73","UPC3",240,1709201536054433,2017-08-03,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"74","UPC4",0,1709201546043656,2017-07-13,"Jonathan Swartz","Jessey Morgan","Kassadie Dunham",NA,50,20
+"75","UPC4",120,1709201546049317,2017-07-13,"Jonathan Swartz","Jessey Morgan","Kassadie Dunham",NA,50,20
+"76","UPC4",240,1709201546042334,2017-07-13,"Jonathan Swartz","Jessey Morgan","Kassadie Dunham",NA,50,20
+"77","SE1",0,1709201555412662,2017-07-24,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"78","SE1",120,1709201555418750,2017-07-24,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"79","SE1",240,170920155541486,2017-07-24,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"80","MPC1",0,1709201604172464,2017-07-25,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"81","MPC1",120,1709201604173853,2017-07-25,"Ben Cochran","Ben Cochran","Kassadie Dunham",NA,50,20
+"82","MPC1",240,1709201604179686,2017-07-25,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"83","MPC3",0,1709201613077332,2017-07-29,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"84","MPC3",120,1709201613075730,2017-07-29,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"85","MPC3",240,170920161307537,2017-07-29,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"86","MPC4",0,1709201621415881,2017-07-25,"Janelle Nelson","Janelle Nelson","Kassadie Dunham",NA,50,20
+"87","MPC4",120,1709201621419833,2017-07-25,"Ben Cochran","Ben Cochran","Kassadie Dunham",NA,50,20
+"88","MPC4",240,1709201621415321,2017-07-25,"Ben Cochran","Ben Cochran","Kassadie Dunham",NA,50,20
+"89","Clayey 045",120,180625084937420,2018-06-25,"Jason Karl","Vincent Jansen",NA,NA,25,20
+"90","SS Gravelly 085",0,1806260828239202,2018-06-26,"Alex Traynor","Jason Dingeldein",NA,NA,25,20
+"91","SS Gravelly 085",120,1806260828231191,2018-06-26,"Alex Traynor","Jason Dingeldein",NA,NA,25,20
+"92","SS Gravelly 085",240,1806260828237880,2018-06-26,"Alex Traynor","Jason Dingeldein",NA,NA,25,20
+"93","Clayey 047",0,1806280851198659,2018-06-28,"Mallory Sisson","Jason Karl",NA,NA,25,20
+"94","SS Gravelly 091",0,1806280847409516,2018-06-28,"Alex Traynor","Cooper Dart","Cooper Dart",NA,25,20
+"95","SS Gravelly 091",120,1806280847407313,2018-06-28,"Alex Traynor","Cooper Dart","Cooper Dart",NA,25,20
+"96","Clayey 047",120,1806280851191330,2018-06-28,"Jason Karl","Mallory Sisson",NA,NA,25,20
+"97","SS Gravelly 091",240,1806280847401266,2018-06-28,"Alex Traynor","Cooper Dart","Cooper Dart",NA,25,20
+"98","Clayey 047",240,1806280851193319,2018-06-28,"Mallory Sisson","Jason Karl",NA,NA,25,20
+"99","SS Gravelly 087",0,603011855054570,2018-06-28,"Lisa Jones","Lou Lunte",NA,NA,25,20
+"100","SS Gravelly 087",120,603011855052367,2018-06-28,"Lisa Jones","Lou Lunte",NA,NA,25,20
+"101","SS Gravelly 087",240,603011855056319,2018-06-28,"Lisa Jones","Lou Lunte",NA,NA,25,20
+"102","Clayey 046",0,1806281234014458,2018-06-28,"Jason Karl","Mallory Sisson",NA,NA,25,20
+"103","Clayey 046",120,180628123401893,2018-06-28,"Mallory Sisson","Jason Karl",NA,NA,25,20
+"104","Clayey 046",240,1806281234014245,2018-06-28,"Jason Karl","Mallory Sisson",NA,NA,25,20
+"105","NS Loamy 129",0,1806281315505710,2018-06-28,"Cooper Dart","Alex Traynor","Alex Traynor",NA,25,20
+"106","NS Loamy 129",120,1806281315504130,2018-06-28,"Alex Traynor","Cooper Dart","Cooper Dart",NA,25,20
+"107","NS Loamy 129",240,1806281315508082,2018-06-28,"Cooper Dart","Alex Traynor","Alex Traynor",NA,25,20
+"108","Loamy 004",0,1806290810063390,2018-06-29,"Dan Lauridzen","Jason Karl",NA,NA,25,20
+"109","Loamy 004",120,1806290810061615,2018-06-29,"Jason Karl","Dan Lauridzen",NA,NA,25,20
+"110","NS Loamy 133",0,1806290859029495,2018-06-29,"Alex Traynor","Cooper Dart","Cooper Dart",NA,25,20
+"111","Loamy 004",240,1806290810064285,2018-06-29,"Dan Lauridzen","Jason Karl",NA,NA,25,20
+"112","NS Loamy 133",120,1806290859027293,2018-06-29,"Cooper Dart","Alex Traynor","Alex Traynor",NA,25,20
+"113","NS Loamy 133",240,1806290859021245,2018-06-29,"Cooper Dart","Alex Traynor","Alex Traynor",NA,25,20
+"114","NS Loamy 159",0,1807301449189101,2018-07-30,"Erick Peterson","Erick Peterson","Alex Traynor","Alex Traynor",25,20
+"115","NS Loamy 159",120,1807301449186899,2018-07-30,"Erick Peterson","Erick Peterson","Alex Traynor",NA,25,20
+"116","NS Loamy 159",240,180730144918851,2018-07-30,"Erick Peterson","Erick Peterson","Alex Traynor","Alex Traynor",25,20
+"117","SS Gravelly 089",0,1808211015266567,2018-06-26,"Alex Traynor","Jason Dingeldein","Alex Traynor","Alex Traynor",25,20
+"118","SS Gravelly 089",120,180821101526693,2018-06-26,"Jason Dingeldein","Alex Traynor","Alex Traynor","Alex Traynor",25,20
+"119","SS Gravelly 089",240,180821101526973,2018-06-26,"Alex Traynor","Jason Dingeldein","Alex Traynor","Alex Traynor",25,20
+"120","Loamy 007",0,1808210856027433,2018-06-28,"Jake Gardener","Mark Treece","Kassadie Dunham",NA,50,20
+"121","Loamy 007",120,1808210856021386,2018-06-28,"Jake Gardener","Mark Treece","Kassadie Dunham",NA,50,20
+"122","Loamy 007",240,1808210856029528,2018-06-28,"Jake Gardener","Mark Treece","Kassadie Dunham",NA,50,20
+"123","Clayey 048",0,1808201307542234,2018-06-28,"Brianna Slothower","Joel Yelich","Kassadie Dunham",NA,25,20
+"124","Clayey 048",120,1808201307541232,2018-06-28,"Joel Yelich","Brianna Slothower","Kassadie Dunham",NA,25,20
+"125","Clayey 048",240,1808201307546893,2018-06-28,"Joel Yelich","Brianna Slothower","Kassadie Dunham",NA,25,20
+"126","Loamy 005",0,1808211532224322,2018-06-28,"Jake Gardener","Christie Patterson","Kassadie Dunham",NA,25,20
+"127","Loamy 005",120,1808211532228874,2018-06-28,"Jake Gardener","Christie Patterson","Kassadie Dunham",NA,25,20
+"128","Loamy 005",240,1808211532227872,2018-06-28,"Jake Gardener","Christie Patterson","Kassadie Dunham",NA,25,20
+"129","Clayey 050",0,1808211333144785,2018-06-28,"Dan Lauridzen","Tim Murphy","Kassadie Dunham",NA,25,20
+"130","Clayey 050",120,1808211333145665,2018-06-28,"Dan Lauridzen","Tim Murphy","Kassadie Dunham",NA,25,20
+"131","Clayey 050",240,1808211333148335,2018-06-28,"Dan Lauridzen","Tim Murphy","Kassadie Dunham",NA,25,20
+"132","SS Gravelly 090",0,1808201225293619,2018-06-29,"Matt Wheeler","Lou Lunte","Kassadie Dunham",NA,25,20
+"133","SS Gravelly 090",120,1808201225291763,2018-06-29,"Matt Wheeler","Lou Lunte","Kassadie Dunham",NA,25,20
+"134","SS Gravelly 090",240,1808201225299987,2018-06-29,"Matt Wheeler","Lou Lunte","Kassadie Dunham",NA,25,20
+"135","NS Loamy 132",0,1808201247312898,2018-06-29,"Nate J","Chris J","Kassadie Dunham",NA,25,20
+"136","NS Loamy 132",120,1808201247317877,2018-06-29,"Nate J","Chris J","Kassadie Dunham",NA,25,20
+"137","NS Loamy 132",240,1808201247315594,2018-06-29,"Nate J","Chris J","Kassadie Dunham",NA,25,20
+"138","Clayey 043",0,1808211538568586,2018-06-28,"Chas Jones","Karen Launchbaugh","Kassadie Dunham",NA,25,20
+"139","Clayey 043",120,1808211538568693,2018-06-28,"Karen Launchbaugh","Chas Jones","Kassadie Dunham",NA,25,20
+"140","Clayey 043",240,1808211538568372,2018-06-28,"Chas Jones","Karen Launchbaugh","Kassadie Dunham",NA,25,20
+"141","Loamy 001",NA,1808211544176771,2018-06-28,"Chas Jones","Karen Launchbaugh","Kassadie Dunham",NA,25,20
+"142","Loamy 001",NA,1808211544179868,2018-06-28,"Karen Launchbaugh","Chas Jones","Kassadie Dunham",NA,25,20
+"143","Loamy 001",NA,180821154417576,2018-06-28,"Chas Jones","Karen Launchbaugh","Kassadie Dunham",NA,25,20
+"144","NS Loamy 128",NA,1808201452211714,2018-06-28,"Lisa Jones","Lou Lunte","Kassadie Dunham",NA,25,20
+"145","NS Loamy 128",NA,1808201452211139,2018-06-28,"Lisa Jones","Lou Lunte","Kassadie Dunham",NA,25,20
+"146","NS Loamy 128",NA,1808201452215518,2018-06-28,"Lisa Jones","Lou Lunte","Kassadie Dunham",NA,25,20
+"147","Loamy 006",0,1807120942539720,2018-06-29,"Jake Gardener","Jake Gardener","Kassadie Dunham",NA,25,20
+"148","Loamy 006",NA,1807120942537945,2018-06-29,"Jake Gardener","Jake Gardener","Kassadie Dunham",NA,25,20
+"149","Loamy 006",NA,180712094253616,2018-06-29,"Jake Gardener","Jake Gardener","Kassadie Dunham",NA,25,20
+"150","Loamy 008",NA,1808201633209761,2018-06-28,"Matt Wheeler","Cameron Packer","Kassadie Dunham",NA,25,20
+"151","Loamy 008",NA,1808201633202686,2018-06-28,"Matt Wheeler","Cameron Packer","Kassadie Dunham",NA,25,20
+"152","Loamy 008",NA,1808201633201257,2018-06-28,"Matt Wheeler","Cameron Packer","Kassadie Dunham",NA,25,20
+"153","NS Loamy 130",NA,180802073123585,2018-06-28,"Matt Wheeler","Cameron Packer","Kassadie Dunham",NA,25,20
+"154","NS Loamy 130",NA,1808020731238382,2018-06-28,"Matt Wheeler","Cameron Packer","Kassadie Dunham",NA,25,20
+"155","NS Loamy 130",NA,1808020731232335,2018-06-28,"Matt Wheeler","Cameron Packer","Kassadie Dunham",NA,25,20
+"156","Clayey 049",NA,1808201423128126,2018-06-26,"Dan Lauridzen","Tim Murphy","Kassadie Dunham",NA,25,20
+"157","Clayey 049",NA,180820142312116,2018-06-26,"Tim Murphy","Dan Lauridzen","Kassadie Dunham",NA,25,20
+"158","Clayey 049",NA,1808201423126804,2018-06-28,"Dan Lauridzen","Tim Murphy","Kassadie Dunham",NA,25,20
+"159","Loamy 003",NA,1808201555184715,2018-06-28,"Tim C","Chris J","Kassadie Dunham",NA,25,20
+"160","Loamy 002",NA,180821160032475,2018-06-28,"John Gardner","John Gardner","Kassadie Dunham",NA,25,20
+"161","Loamy 002",NA,180821160032928,2018-06-28,"John Gardner","John Gardner","Kassadie Dunham",NA,25,20
+"162","Loamy 002",NA,1808211600324880,2018-06-28,"John Gardner","John Gardner","Kassadie Dunham",NA,25,20
+"163","SS Gravelly 092",0,1808210920225653,2018-06-28,"Tim C","Chris J","Kassadie Dunham",NA,25,20
+"164","SS Gravelly 092",120,1808210920228404,2018-06-28,"Tim C","Chris J","Kassadie Dunham",NA,25,20
+"165","SS Gravelly 092",240,1808210920224839,2018-06-28,"Tim C","Chris J","Kassadie Dunham",NA,25,20
+"166","Clayey 044",0,1808201256487579,2018-06-28,"Joel Yelich","Brianna Slothower","Kassadie Dunham",NA,25,20
+"167","Clayey 044",120,1808201256488714,2018-06-28,"Brianna Slothower","Joel Yelich","Kassadie Dunham",NA,25,20
+"168","Clayey 044",240,1808201256487966,2018-06-28,"Brianna Slothower","Joel Yelich","Kassadie Dunham",NA,25,20
+"169","SS Gravelly 086",120,1808211511079637,2018-06-29,"John Gardner","Christie Patterson","Kassadie Dunham",NA,25,20
+"170","SS Gravelly 086",240,1808211511074017,2018-06-29,"John Gardner","Christie Patterson","Kassadie Dunham",NA,25,20
+"171","SS Gravelly 088",0,603012033445730,2018-06-28,"Chelsey","Mark","Kassadie Dunham",NA,25,20
+"172","SS Gravelly 088",180,603012033449682,2018-06-28,"Chelsey","Mark","Kassadie Dunham",NA,25,20
+"173","SS Gravelly 088",240,603012033447826,2018-06-28,"Chelsey","Mark","Kassadie Dunham",NA,25,20
+"174","056",0,1911131249082178,2019-06-26,"Alex Traynor","Alex Traynor","Jacob Gardner","Anastasie Echeverria",25,20
+"175","056",120,1911131249081685,2019-06-26,"Lily Fanok","Sarah Birkdaud","Jacob Gardner","Anastasie Echeverria",25,20
+"176","056",240,191113124908510,2019-06-26,"Alex Traynor","Sarah Birkdaud","Jacob Gardner","Anastasie Echeverria",25,20
+"177","057",0,1911151034336976,2019-06-26,"Dan Lauritzen","Chas Jones","Jacob Gardner","Anastasie Echeverria",25,20
+"178","057",0,1911151034339646,2019-06-26,"Dan Lauritzen","Chas Jones","Jacob Gardner","Anastasie Echeverria",25,20
+"179","057",240,1911151034331636,2019-06-26,"Dan Lauritzen","Chas Jones","Jacob Gardner","Anastasie Echeverria",25,20
+"180","058",0,19111810102741,2019-06-26,"Angela Malliaras","Taythen L.","Jacob Gardner","Anastasie Echeverria",25,20
+"181","058",120,1911181010278183,2019-06-26,"Angela Malliaras","Taythen Larson","Jacob Gardner","Anastasie Echeverria",25,20
+"182","058",240,1911181010276408,2019-06-26,"Angela Malliaras","Taythen Larson","Jacob Gardner","Anastasie Echeverria",25,20
+"183","093",0,1911181117352527,2019-06-27,"Keri York","Leah Thayer","Jacob Gardner","Anastasie Echeverria",25,20
+"184","093",120,1911181117352033,2019-06-27,"Keri York","Leah Thayer","Jacob Gardner","Anastasie Echeverria",25,20
+"185","093",240,191118111735858,2019-06-27,"Keri York","Leah Thayer","Jacob Gardner","Anastasie Echeverria",25,20
+"186","094",0,1910211223078248,2019-06-27,"Austin Balsizer","Shannon Wilkey","Jacob Gardner","Anastasie Echeverria",25,20
+"187","094",0,1910211223072455,2019-06-27,"Austin Balsizer","Shannon Wilkey","Jacob Gardner","Anastasie Echeverria",25,20
+"188","094",0,1910211223077180,2019-06-27,"Austin Balsizer","Shannon Wilkey","Jacob Gardner","Anastasie Echeverria",25,20
+"189","095",0,1910211311348723,2019-06-28,"Alex Traynor","Karen Launchaugh","Austin Balsizer","Anastasie Echeverria",25,20
+"190","095",120,191021131134285,2019-06-28,"Alex Traynor","Karen Launchaugh","Austin Balsizer","Anastasie Echeverria",25,20
+"191","095",240,1910211311348255,2019-06-28,"Alex Traynor","Karen Launchaugh","Austin Balsizer","Anastasie Echeverria",25,20
+"192","096",0,1911191446281880,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Austin Balsizer","Anastasie Echeverria",25,20
+"193","096",120,1911191446286582,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Austin Balsizer","Anastasie Echeverria",25,20
+"194","096",240,1911191446288571,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Austin Balsizer","Anastasie Echeverria",25,20
+"195","097",0,191120101402191,2019-06-28,"Kenny Randall","Taythen Larson","Jacob Gardner","Anastasie Echeverria",25,20
+"196","097",120,1911201014027988,2019-06-28,"Kenny Randall","Taythen Larson","Jacob Gardner","Anastasie Echeverria",25,20
+"197","097",240,1911201014021940,2019-06-28,"Kenny Randall","Taythen Larson","Jacob Gardner","Anastasie Echeverria",25,20
+"198","100",0,1911271545277194,2019-06-27,"Christian Trucco","Taythen Larson","Anastasie Echeverria","Jacob Gardner",25,20
+"199","100",120,1911271545271147,2019-06-27,"Christian Trucco","Taythen Larson","Anastasie Echeverria","Jacob Gardner",25,20
+"200","100",240,1911271545279290,2019-06-27,"Christian Trucco","Taythen Larson","Anastasie Echeverria","Jacob Gardner",25,20
+"201","098",0,1911221036014451,2019-06-28,"Matthan Hale","Matthan Hale","Austin Balsizer","Anastasie Echeverria",25,20
+"202","098",120,1911221036012249,2019-06-28,"Matthan Hale","Matthan Hale","Austin Balsizer","Anastasie Echeverria",25,20
+"203","098",0,1911221036016200,2019-06-28,"Matthan Hale","Matthan Hale","Austin Balsizer","Anastasie Echeverria",25,20
+"204","138",0,1910211222548816,2019-06-27,"Lisa Jones","Lisa Jones","Jacob Gardner","Jacob Gardner",25,20
+"205","138",120,1910211222547641,2019-06-27,"Lisa Jones","Lisa Jones","Jacob Gardner","Jacob Gardner",25,20
+"206","138",240,1910211222541167,2019-06-27,"Lisa Jones","Lisa Jones","Jacob Gardner","Jacob Gardner",25,20
+"207","139",0,1911271548518751,2019-06-27,"Keri York","Kenny Randall","Jacob Gardner","Jacob Gardner",25,20
+"208","139",120,1911271548519712,2019-06-27,"Keri York","Kenny Randall","Jacob Gardner","Jacob Gardner",25,20
+"209","139",240,1911271548516828,2019-06-27,"Keri York","Kenny Randall","Jacob Gardner","Jacob Gardner",25,20
+"210","141",0,1910211207132001,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Jacob Gardner","Jacob Gardner",25,20
+"211","141",120,1910211207133990,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Jacob Gardner","Jacob Gardner",25,20
+"212","141",240,191021120713679,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Jacob Gardner","Jacob Gardner",25,20
+"213","142",0,1910211248016462,2019-06-27,"Jim Sprinkle","Jim Sprinkle","Jacob Gardner","Jacob Gardner",25,20
+"214","142",120,1910211248017424,2019-06-27,"Jim Sprinkle","Jim Sprinkle","Jacob Gardner","Jacob Gardner",25,20
+"215","142",240,1910211248014540,2019-06-27,"Jim Sprinkle","Jim Sprinkle","Jacob Gardner","Jacob Gardner",25,20
+"216","136",0,1911271548357850,2019-06-27,"Alice Knight","Sandi Goodard","Austin Balsizer","Jacob Gardner",25,20
+"217","136",120,1911271548354112,2019-06-27,"Alice Knight","Sandi Goodard","Austin Balsizer","Jacob Gardner",25,20
+"218","136",240,1911271548357983,2019-06-27,"Alice Knight","Sandi Goodard","Austin Balsizer","Jacob Gardner",25,20
+"219","014",120,1910211257502536,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Jacob Gardner","Anastasie Echeverria",25,20
+"220","014",240,1910211257508970,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Jacob Gardner","Anastasie Echeverria",25,20
+"221","015",0,191111104102768,2019-06-28,"Erick Peterson","Anna Pauken","Jacob Gardner","Anastasie Echeverria",25,20
+"222","015",120,1911111041027456,2019-06-28,"Erick Peterson","Anna Pauken","Jacob Gardner","Anastasie Echeverria",25,20
+"223","015",240,1911111041027390,2019-06-28,"Erick Peterson","Anna Pauken","Jacob Gardner","Anastasie Echeverria",25,20
+"224","016",0,1911111312393751,2019-06-27,"Brendon Brazee","Brendon Brazee","Austin Balsizer","Anastasie Echeverria",25,20
+"225","016",120,1911111312398130,2019-06-27,"Brendon Brazee","Brendon Brazee","Austin Balsizer","Anastasie Echeverria",25,20
+"226","016",240,1911111312392336,2019-06-27,"Brendon Brazee","Brendon Brazee","Austin Balsizer","Anastasie Echeverria",25,20
+"227","053",0,191021125126691,2019-06-27,"Sean Distefano","Jim Sprinkle","Austin Balsizer","Anastasie Echeverria",25,20
+"228","053",120,1910211251269088,2019-06-27,"Sean Distefano","Jim Sprinkle","Austin Balsizer","Anastasie Echeverria",25,20
+"229","053",240,1910211251263895,2019-06-27,"Sean Distefano","Jim Sprinkle","Austin Balsizer","Anastasie Echeverria",25,20
+"230","052",0,1910211309478397,2019-06-28,"Sean Distefano","Jim Sprinkle","Austin Balsizer","Anastasie Echeverria",25,20
+"231","052",120,1910211309476021,2019-06-28,"Sean Distefano","Jim Sprinkle","Austin Balsizer","Anastasie Echeverria",25,20
+"232","052",240,1910211309477837,2019-06-28,"Sean Distefano","Jim Sprinkle","Austin Balsizer","Anastasie Echeverria",25,20
+"233","054",0,191112142938732,2019-06-26,"Sean Distefano","Chantel Mendiola","Austin Balsizer","Anastasie Echeverria",25,20
+"234","054",240,1911121429382482,2019-06-26,"Sean Distefano","Chantel Mendiola","Austin Balsizer","Anastasie Echeverria",25,20
+"235","054",120,1911121429388529,2019-06-26,"Leah Thayer","Paige Byassee","Austin Balsizer","Anastasie Echeverria",25,20
+"236","055",0,1911131145137529,2019-06-27,"Connor White","Chelsey Sanders","Jacob Gardner","Anastasie Echeverria",25,20
+"237","055",120,1911131145135753,2019-06-27,"Connor White","Chelsey Sanders","Jacob Gardner","Anastasie Echeverria",25,20
+"238","055",240,1911131145138423,2019-06-27,"Connor White","Chelsey Sanders","Jacob Gardner","Anastasie Echeverria",25,20
+"239","011",0,1910231107005085,2019-06-27,"Brianna Slothower","Annika Norton","Jacob Gardner","Anastasie Echeverria",25,20
+"240","011",120,1910231107009037,2019-06-27,"Brianna Slothower","Annika Norton","Jacob Gardner","Anastasie Echeverria",25,20
+"241","011",240,1910231107007181,2019-06-27,"Brianna Slothower","Annika Norton","Jacob Gardner","Anastasie Echeverria",25,20
+"242","012",0,1910211222174375,2019-06-27,"Lisa Jones","Lisa Jones","Austin Balsizer","Anastasie Echeverria",25,20
+"243","012",120,1910211222175163,2019-06-27,"Lisa Jones","Lisa Jones","Austin Balsizer","Anastasie Echeverria",25,20
+"244","012",240,191021122217143,2019-06-27,"Lisa Jones","Lisa Jones","Austin Balsizer","Anastasie Echeverria",25,20
+"245","013",0,1910211301597311,2019-06-27,"Anna Pauken","Christie Hubbard","Austin Balsizer","Anastasie Echeverria",25,20
+"246","013",120,1910211301596737,2019-06-27,"Anna Pauken","Christie Hubbard","Austin Balsizer","Anastasie Echeverria",25,20
+"247","013",240,1910211301591116,2019-06-27,"Anna Pauken","Christie Hubbard","Austin Balsizer","Anastasie Echeverria",25,20
+"248","014",0,1910211257507128,2019-06-27,"Samuel Bayczick","Jarin Ebbers","Jacob Gardner","Anastasie Echeverria",25,20
+"249","009",0,1910211414416300,2019-06-28,"Austin Balsizer","Annika Norton","Austin Balsizer","Anastasie Echeverria",25,20
+"250","009",120,1910211414418970,2019-06-28,"Austin Balsizer","Annika Norton","Austin Balsizer","Anastasie Echeverria",25,20
+"251","009",240,191021141441960,2019-06-28,"Austin Balsizer","Annika Norton","Austin Balsizer","Anastasie Echeverria",25,20
+"252","010",0,1910211254567785,2019-06-27,"Anna Panken","Christie Hubbard","Austin Balsizer","Anastasie Echeverria",25,20
+"253","010",120,1910211254568665,2019-06-27,"Anna Panken","Christie Hubbard","Austin Balsizer","Anastasie Echeverria",25,20
+"254","010",240,1910211254561336,2019-06-27,"Anna Panken","Christie Hubbard","Austin Balsizer","Anastasie Echeverria",25,20
