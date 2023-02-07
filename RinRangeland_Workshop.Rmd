@@ -62,33 +62,21 @@ Let's take a tour through R studio
 * In **R Markdown**, the script is broken into text and code sections, called chunks. You can format the text (hence all the asterisks), and outputs are spit out under code chunks. To run a chunk of code, hit the green triangle in each chunk, or run all chunks using the upper Run arrow. These files end with .Rmd
 
 
-# Working Directory
-This is where R, by default, will go to look for any datasets you load and is the place R will save files you save. When working on a simple project, I save my R scripts and all files related to that project into a single folder that I set as my working directory. This makes it so I don’t have to write out the whole directory path every time I want to load or save something. This also helps me keep organized.
+# The Tidyverse
+This workshop will be focused on using tools within the  [tidyverse](https://www.tidyverse.org/) for data manipulation and visualization. The tidyverse is a collection of packages that all play nice with eachother - they have the same philosophy, grammar, and data structures. This allows for fast, efficient workflows in R. 
+The world of R is moving to the tidyverse, and you should too! 
 
-You can check the current working directory: 
-```{r}
-getwd()
-```
-You can do this with code of with the control panels: 
-Session > set working directory > to source file location >  navigate to your home base folder on your computer
-OR 
-Files pane > More.. > Set working directory
-
-# Let's all set the working directory for this workshop 
-Important: You must either use single forward slashes or double backslashes in the directory path in R instead of the single backslashes. If you work in Windows this will not be what you are used to.
-setwd("C:/Users/Aosmith/R workshops/r-basics-workshop")
-setwd("C:\\Users\\Aosmith\\R workshops\\r-basics-workshop")
-```{r}
-setwd("C:\\Users\\harr4718\\OneDrive - University of Idaho\\R code (copies)\\SRM R workshop\\DemoData")
-#customize to your own file path
-```
+## Packages within the tidyverse: 
+* Importing data (readr)
+* Data manipulation (dplyr, tidyr)
+* Working with data types (stringr for strings, lubridate for date/datetime, forcats for categorical/factors)
+* Data visualization (ggplot2)
+* Data-oriented programming (purrr)
+* Communication (Rmarkdown, shiny)
 
 
 
-# Install packages: 
-## the [tidyverse] (https://www.tidyverse.org/)
-
-# install tidyverse
+# Install packages
 There are a few ways you can install a package:
 
 1) In packages tab, using the install button. Then library a package (aka activate it for that session) by checking the box
@@ -98,10 +86,10 @@ There are a few ways you can install a package:
 ```
 **note, only do this once!** 
 After installation, library a package to recall it and have it ready to use during that session
-```{r, message=FALSE}
+```{r, message=FALSE, warning = FALSE}
 library(tidyverse)
 ```
-### the tidyverse is special because it is actually a family of packages
+### the tidyverse is special because it is actually a family of packages, so this function is actually calling many packages
 
 # Help
 Here are a few of the key ways to get help in R. 
@@ -125,6 +113,31 @@ These bring you to **R documentation**, which is always set up in the same way w
 in most cases, someone else has already asked your question 
 
 There are [cheatsheets](https://posit.co/resources/cheatsheets/) for each tidyverse package (and many other R entities!)
+
+
+
+# Working Directory
+This is where R, by default, will go to look for any datasets you load and is the place R will save files you save. When working on a simple project, I save my R scripts and all files related to that project into a single folder that I set as my working directory. This makes it so I don’t have to write out the whole directory path every time I want to load or save something. This also helps me keep organized.
+
+You can check the current working directory: 
+```{r}
+getwd()
+```
+You can do this with code of with the control panels: 
+Session > set working directory > to source file location >  navigate to your home base folder on your computer
+OR 
+Files pane > More.. > Set working directory
+
+# Let's all set the working directory for this workshop 
+Important: You must either use single forward slashes or double backslashes in the directory path in R instead of the single backslashes. If you work in Windows this will not be what you are used to.
+setwd("C:/Users/Aosmith/R workshops/r-basics-workshop")
+setwd("C:\\Users\\Aosmith\\R workshops\\r-basics-workshop")
+```{r}
+setwd("C:\\Users\\harr4718\\OneDrive - University of Idaho\\R code (copies)\\SRM R workshop\\DemoData")
+#customize to your own file path
+```
+
+
 
 # Read in the data
 let's get started actually working with the data 
